@@ -1,0 +1,27 @@
+/* .hide {
+    display: none
+ } */
+ body {
+     
+      
+     width: 300px;
+     height: 500px;
+     border: solid black 2px;
+     margin:auto;
+     color:black;
+     
+
+ }
+ #country {
+     background-color:rgb(152, 201, 152);
+ }
+.hideklass {
+    display: none;
+}
+
+  
+    /* background-color: rgb(96, 137, 190); */
+    /* display:flex ; */
+    /* justify-content: center; */
+    /* flex-direction: column; */
+
